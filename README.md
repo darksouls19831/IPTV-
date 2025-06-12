@@ -1,2 +1,2 @@
 # IPTV-
-I am looking for an IPTV Restream provider, I have a server but lack content
+I am looking for an IPTV Restream provider,vod steaming I have a server 
